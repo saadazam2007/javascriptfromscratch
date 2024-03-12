@@ -23,3 +23,6 @@ console.log(typeof null) // null is an object
 console.log(typeof undefined)// undefined is undefined
 console.log(typeof age)
 console.log(typeof name)
+
+
+// ecma script is a standard for js it's like a book where all the syntax is defined
